@@ -19,3 +19,8 @@
     margin-top: 10px;
     color: grey;
 }
+
+.big-card-image > img {
+    width: 100%;
+    min-width: 400px;
+}
