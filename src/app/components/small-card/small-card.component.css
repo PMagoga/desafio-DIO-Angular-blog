@@ -1,0 +1,22 @@
+p {
+    font-size: 30px;
+    color: white;
+}
+
+.container-small-card {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+}
+
+.small-card-photo > img {
+    width: 100%;
+    max-width: 200px;
+    margin-right: 10px;
+}
+
+.small-card-title {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
