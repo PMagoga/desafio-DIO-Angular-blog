@@ -2,12 +2,12 @@ import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 
 @Component({
-  selector: 'app-menu-bar',
+  selector: 'app-creditos',
   standalone: true,
   imports: [RouterLink],
-  templateUrl: './menu-bar.component.html',
-  styleUrl: './menu-bar.component.css'
+  templateUrl: './creditos.component.html',
+  styleUrl: './creditos.component.css'
 })
-export class MenuBarComponent {
+export class CreditosComponent {
 
 }
